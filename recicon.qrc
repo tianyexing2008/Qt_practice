@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/add.jpg</file>
+        <file>icon/alignCentral.png</file>
+        <file>icon/alignLeft.png</file>
+        <file>icon/alignRight.png</file>
+        <file>icon/del.png</file>
+        <file>icon/font_bold.png</file>
+        <file>icon/open.gif</file>
+        <file>icon/save.png</file>
+        <file>icon/help.png</file>
+    </qresource>
+</RCC>
